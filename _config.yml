@@ -1,6 +1,6 @@
 name: Theo Grace Music Lessons
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.27212
 typography_spectrum: 0.32232331903651357
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#442500'
     - '#7a5009'
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
